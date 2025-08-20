@@ -1,0 +1,4 @@
+module OMSDK_Static_Hopprau {
+    header "OMIDImports.h"
+    export *
+}

@@ -1,0 +1,5 @@
+framework module "HopprEngine" {
+    umbrella header "HopprEngine.h"
+    export *
+    module * { export * }
+}
